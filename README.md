@@ -1,5 +1,3 @@
-# AuthenticationJwtJava - Java Authentication Jwt
-
 # Trabalho de Sistemas de Informação
 - Sistema de autenticação feio em Spring Boot;
 - Jwt;
