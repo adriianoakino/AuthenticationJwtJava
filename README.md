@@ -1,7 +1,7 @@
 # Trabalho de Sistemas de Informação
 - Sistema de autenticação feio em Spring Boot;
 - Jwt;
-- By
+- BCryptPasswordEncoder;
 - Hibernate;
 
 # Postman Rotas
