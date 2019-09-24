@@ -7,6 +7,7 @@
 
 # Criptografia Jasypt, criação e configuração do Application-dev.properties
 ## Gerando hash com o Jasypt
+- Vá até o site: [Jasypt](http://www.jasypt.org/) ou
 - Vá até a pasta Jasypt e extraia os zip.
 - dentro da pasta utilize o CMD, e execute os seguintes comandos para criptograr a sua senha do banco de dados;
 ```
