@@ -1,4 +1,14 @@
 # Sistema de autenticação e criptografia da senha do banco de dados utilizando o Jasypt feito em Spring Boot;
+
+```
+Este trabalho visa como objetivo realizar os projetos da aula de Sistema de Informações - FATEC SJC
+
+	# INTEGRANTES #
+	Abner Anjos
+	Adriano de Aquino
+	Mariana Vasconcellos
+	Tabata Gloria
+```
 - Jasypt;
 - application developers, criptografia senha do banco de dados;
 - Jwt;
